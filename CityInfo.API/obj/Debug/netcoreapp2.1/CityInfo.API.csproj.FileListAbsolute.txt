@@ -1,0 +1,14 @@
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.deps.json
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.runtimeconfig.json
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.runtimeconfig.dev.json
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.dll
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.pdb
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfo.cs
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
+C:\Users\beatriz.parejo.ramos\Desktop\Practicas\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
